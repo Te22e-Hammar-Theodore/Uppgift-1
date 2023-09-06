@@ -17,6 +17,8 @@ public class App {
 
         int rest1 = 10%3;
         int rest2 = 9%3;
-        
+
+        System.out.println("Resten av 10/3 är "+rest1);
+        System.out.println("Resten av 9/3 är "+rest2);
     }
 }
