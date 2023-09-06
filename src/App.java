@@ -8,5 +8,10 @@ public class App {
 
         System.out.println("Summan av tal1 + tal2 är "+ summa_addition);
         System.out.println("Summan av tal1 - tal2 är "+ summa_subraktion);
+
+        int produkt=tal1*tal2;
+        int kvot=tal1/tal2;
+
+        
     }
 }
