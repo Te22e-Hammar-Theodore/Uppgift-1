@@ -12,6 +12,7 @@ public class App {
         int produkt=tal1*tal2;
         int kvot=tal1/tal2;
 
-        
+        System.out.println("Produkten av tal1*tal2 är "+ produkt);
+        System.out.println("Kvoten av tal1/tal2 är "+kvot);
     }
 }
